@@ -1,4 +1,4 @@
-# 💬 Chat Application
+# Chat Application
 
 A real-time console-based **Chat Application** developed using C++ that enables users to exchange messages through a simple client-server communication model. The project demonstrates networking fundamentals, message handling, and real-time communication concepts.
 
