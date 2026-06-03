@@ -12,13 +12,13 @@ This Chat Application is designed to simulate real-world messaging systems where
 
 ##  Features
 
-- 💬 Real-time message exchange
-- 👥 Multi-user communication support
-- 🔗 Client-Server architecture
-- ⚡ Instant message delivery
-- 📡 Socket-based communication
-- 🖥️ Console-based interface
-- 🔒 Structured communication flow
+-  Real-time message exchange
+-  Multi-user communication support
+-  Client-Server architecture
+-  Instant message delivery
+-  Socket-based communication
+-  Console-based interface
+-  Structured communication flow
 
 ---
 
@@ -87,7 +87,7 @@ Terminate Connection
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project was built to understand:
 
