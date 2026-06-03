@@ -4,13 +4,13 @@ A real-time console-based **Chat Application** developed using C++ that enables 
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This Chat Application is designed to simulate real-world messaging systems where users can send and receive messages instantly. The project focuses on implementing the core logic behind communication systems while strengthening concepts of socket programming, networking, and system-level communication.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 💬 Real-time message exchange
 - 👥 Multi-user communication support
@@ -22,7 +22,7 @@ This Chat Application is designed to simulate real-world messaging systems where
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -34,7 +34,7 @@ This Chat Application is designed to simulate real-world messaging systems where
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 chatApp/
@@ -48,7 +48,7 @@ chatApp/
 
 ---
 
-## ⚙️ Working Flow
+##  Working Flow
 
 ```text
 Start Server
@@ -74,7 +74,7 @@ Terminate Connection
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Socket Programming
 - Client-Server Architecture
@@ -100,7 +100,7 @@ This project was built to understand:
 
 ---
 
-## 📊 Core Functionalities
+##  Core Functionalities
 
 ### Server Module
 - Accepts client connections
@@ -119,7 +119,7 @@ This project was built to understand:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - GUI-based interface
 - Group chat support
@@ -133,7 +133,7 @@ This project was built to understand:
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 ### Compile Server
 
@@ -161,7 +161,7 @@ g++ client.cpp -o client
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -174,7 +174,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Krishna Prashar**  
 B.Tech Computer Science & Engineering  
